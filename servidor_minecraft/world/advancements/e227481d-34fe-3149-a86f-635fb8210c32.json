@@ -1,0 +1,15 @@
+{
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2024-12-08 19:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-08 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
