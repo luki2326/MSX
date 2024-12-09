@@ -369,12 +369,6 @@
     },
     "done": true
   },
-  "the_intruder:achievement_join_game": {
-    "criteria": {
-      "achievement_join_game": "2024-12-09 16:42:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-08 19:58:55 +0000"
@@ -483,12 +477,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cutting_board": {
-    "criteria": {
-      "has_stick": "2024-12-09 16:42:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:28:27 +0000"
@@ -516,12 +504,6 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-08 20:52:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-09 16:42:47 +0000"
     },
     "done": true
   },
@@ -658,12 +640,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2024-12-09 16:42:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-08 20:28:27 +0000"
@@ -748,12 +724,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-09 16:42:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 20:33:57 +0000"
@@ -817,12 +787,6 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 20:07:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
-    "criteria": {
-      "has_bone": "2024-12-09 16:42:47 +0000"
     },
     "done": true
   },
@@ -934,12 +898,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-09 16:42:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 20:07:32 +0000"
@@ -979,18 +937,6 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-08 19:58:01 +0000"
-    },
-    "done": true
-  },
-  "genshinstrument:recipes/windsong_lyre": {
-    "criteria": {
-      "has_main": "2024-12-09 16:42:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/flint_knife": {
-    "criteria": {
-      "has_stick": "2024-12-09 16:42:47 +0000"
     },
     "done": true
   },
@@ -1115,12 +1061,6 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-08 20:17:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-09 16:42:47 +0000"
     },
     "done": true
   },

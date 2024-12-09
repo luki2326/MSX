@@ -102,7 +102,3 @@
 	#Range: 0.0 ~ 3.0
 	depth_strider_bonus = 1.5
 
-[Misc]
-	#Only play the ambient noises to the current (spawn) target (Note: The target can change when a spawn attempt is not successful)
-	only_play_noise_to_target = false
-
