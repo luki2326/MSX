@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-09 22:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-08 20:11:49 +0000"
@@ -222,6 +228,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 20:33:57 +0000"
+    },
+    "done": true
+  },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2024-12-09 22:17:43 +0000"
     },
     "done": true
   },
@@ -336,6 +348,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-08 20:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-09 22:21:45 +0000"
     },
     "done": true
   },
@@ -528,6 +546,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 20:11:49 +0000",
+      "minecraft:creeper": "2024-12-09 22:17:19 +0000",
       "minecraft:zombie": "2024-12-08 20:21:16 +0000"
     },
     "done": false
@@ -835,6 +854,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-08 20:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 22:31:47 +0000"
     },
     "done": true
   },
