@@ -112,3 +112,22 @@
 [10Dec2024 02:10:59.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> luis
 [10Dec2024 02:11:01.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> wtf
 [10Dec2024 02:11:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> CORREEE
+[10Dec2024 02:27:43.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luki111 lost connection: Disconnected
+[10Dec2024 02:27:43.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luki111 left the game
+[10Dec2024 02:27:43.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luki111
+[10Dec2024 02:27:44.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RickyCaos69 lost connection: Disconnected
+[10Dec2024 02:27:44.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RickyCaos69 left the game
+[10Dec2024 02:27:44.786] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RickyCaos69
+[10Dec2024 02:27:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 02:27:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 02:27:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 02:27:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 02:27:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 02:27:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 02:27:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 02:27:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[10Dec2024 02:27:54.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 02:27:54.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

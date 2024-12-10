@@ -2260,3 +2260,80 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Dec2024 02:27:13.678] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
 [10Dec2024 02:27:14.687] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
 [10Dec2024 02:27:14.828] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:16.770] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:16.878] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:17.578] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:18.678] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:19.820] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:19.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 02:27:19.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 02:27:21.428] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:22.128] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:23.528] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:23.579] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:24.740] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:24.929] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:26.731] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:26.828] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:27.529] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:28.000] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:28.007] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:30.980] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:31.428] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:32.742] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:32.748] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:33.729] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:35.678] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:35.728] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:36.778] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:37.579] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:37.728] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:37.878] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:37.929] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:38.729] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:41.329] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:42.703] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['luki111'/514, l='ServerLevel[world]', x=-85.70, y=137.00, z=-473.70]]
+[10Dec2024 02:27:43.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luki111 lost connection: Disconnected
+[10Dec2024 02:27:43.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luki111 left the game
+[10Dec2024 02:27:43.902] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of luki111
+[10Dec2024 02:27:43.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luki111
+[10Dec2024 02:27:43.978] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:44.655] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['RickyCaos69'/211, l='ServerLevel[world]', x=-84.31, y=137.00, z=-473.63]]
+[10Dec2024 02:27:44.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RickyCaos69 lost connection: Disconnected
+[10Dec2024 02:27:44.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RickyCaos69 left the game
+[10Dec2024 02:27:44.786] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of RickyCaos69
+[10Dec2024 02:27:44.786] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RickyCaos69
+[10Dec2024 02:27:44.787] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.960] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.960] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.961] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.961] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.961] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.961] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:44.961] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:45.002] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:45.002] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:45.007] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:45.025] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:45.078] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:45.264] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:45.264] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b51a0afa-e766-353b-a798-a08d2421f307 does not have a secret
+[10Dec2024 02:27:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 02:27:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 02:27:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 02:27:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 02:27:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 02:27:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 02:27:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 02:27:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[10Dec2024 02:27:54.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 02:27:54.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 02:27:54.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 02:27:54.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Dec2024 02:27:54.581] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[10Dec2024 02:27:54.581] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Dec2024 02:27:54.582] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file endofherobrine-server.toml changed, sending notifies
