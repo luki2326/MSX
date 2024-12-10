@@ -1,133 +1,109 @@
-[10Dec2024 01:46:57.168] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[10Dec2024 01:46:57.174] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[10Dec2024 01:46:57.509] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[10Dec2024 01:46:57.510] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MSX/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23115!/
-[10Dec2024 01:46:57.519] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MSX/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
-[10Dec2024 01:46:57.520] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[10Dec2024 01:46:57.580] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[10Dec2024 01:46:57.589] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[10Dec2024 01:46:57.866] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[10Dec2024 01:46:57.870] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[10Dec2024 01:46:57.876] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[10Dec2024 01:46:57.880] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[10Dec2024 01:46:57.973] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[10Dec2024 01:46:58.484] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[10Dec2024 01:46:58.493] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
-[10Dec2024 01:46:58.872] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[10Dec2024 01:46:59.240] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Dec2024 01:46:59.257] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
-[10Dec2024 01:46:59.304] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[10Dec2024 01:46:59.306] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[10Dec2024 01:46:59.321] [main/WARN] [mixin/]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Dec2024 01:46:59.430] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
-[10Dec2024 01:46:59.431] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
-[10Dec2024 01:47:03.992] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[10Dec2024 01:47:05.819] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[10Dec2024 01:47:05.819] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[10Dec2024 01:47:06.115] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@6d98bf7 has been registered twice for the same name treechop:chop_wood.
-[10Dec2024 01:47:06.350] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[10Dec2024 01:47:06.468] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[10Dec2024 01:47:06.476] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[10Dec2024 01:47:06.476] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[10Dec2024 01:47:06.489] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[10Dec2024 01:47:06.491] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[10Dec2024 01:47:06.493] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[10Dec2024 01:47:06.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[10Dec2024 01:47:07.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.2-2.5.26 Target: null
-[10Dec2024 01:47:07.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Dec2024 01:47:07.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
-[10Dec2024 01:47:07.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[10Dec2024 01:47:07.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.19.2-1.4.5 Target: null
-[10Dec2024 01:47:07.986] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10Dec2024 01:47:08.778] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
-[10Dec2024 01:47:08.779] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
-[10Dec2024 01:47:10.888] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[10Dec2024 01:47:11.362] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+[10Dec2024 22:45:59.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[10Dec2024 22:45:59.037] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[10Dec2024 22:45:59.458] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[10Dec2024 22:45:59.459] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MSX/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23115!/
+[10Dec2024 22:45:59.465] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MSX/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
+[10Dec2024 22:45:59.467] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[10Dec2024 22:45:59.530] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[10Dec2024 22:45:59.540] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[10Dec2024 22:45:59.836] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[10Dec2024 22:45:59.839] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[10Dec2024 22:45:59.840] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[10Dec2024 22:45:59.841] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[10Dec2024 22:45:59.934] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[10Dec2024 22:46:00.484] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[10Dec2024 22:46:00.493] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
+[10Dec2024 22:46:00.849] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[10Dec2024 22:46:01.331] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Dec2024 22:46:01.358] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
+[10Dec2024 22:46:01.408] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[10Dec2024 22:46:01.410] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[10Dec2024 22:46:01.423] [main/WARN] [mixin/]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Dec2024 22:46:01.507] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
+[10Dec2024 22:46:01.508] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
+[10Dec2024 22:46:05.891] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[10Dec2024 22:46:07.951] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[10Dec2024 22:46:07.976] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[10Dec2024 22:46:08.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@73a815c2 has been registered twice for the same name treechop:chop_wood.
+[10Dec2024 22:46:08.649] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[10Dec2024 22:46:08.787] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[10Dec2024 22:46:08.793] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[10Dec2024 22:46:08.793] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[10Dec2024 22:46:08.807] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[10Dec2024 22:46:08.808] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[10Dec2024 22:46:08.809] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[10Dec2024 22:46:08.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[10Dec2024 22:46:09.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.19.2-2.5.26 Target: null
+[10Dec2024 22:46:09.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Dec2024 22:46:10.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
+[10Dec2024 22:46:10.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[10Dec2024 22:46:10.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.19.2-1.4.5 Target: null
+[10Dec2024 22:46:10.132] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Dec2024 22:46:11.045] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
+[10Dec2024 22:46:11.046] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
+[10Dec2024 22:46:13.330] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[10Dec2024 22:46:13.757] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
 
-[10Dec2024 01:47:11.386] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1198 advancements
-[10Dec2024 01:47:11.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[10Dec2024 01:47:11.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Dec2024 01:47:11.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Dec2024 01:47:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Dec2024 01:47:12.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Dec2024 01:47:12.097] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Dec2024 01:47:12.188] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Dec2024 01:47:12.188] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Dec2024 01:47:12.189] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Dec2024 01:47:12.189] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Dec2024 01:47:12.208] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[10Dec2024 01:47:12.211] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[10Dec2024 01:47:12.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Dec2024 01:47:12.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Dec2024 01:47:17.632] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.634] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.666] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.747] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.786] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.863] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.887] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:17.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:18.102] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Dec2024 01:47:18.602] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[10Dec2024 01:47:19.111] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[10Dec2024 01:47:19.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[10Dec2024 01:47:19.796] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7194 ms
-[10Dec2024 01:47:19.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.597s)! For help, type "help"
-[10Dec2024 01:47:19.810] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Dec2024 01:47:19.815] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[10Dec2024 01:47:19.831] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'structure-tex.gl.at.ply.gg'
-[10Dec2024 01:47:19.855] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2073
-[10Dec2024 01:47:34.288] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3986b007
-[10Dec2024 01:47:34.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RickyCaos69[/127.84.140.30:40975] logged in with entity id 211 at (86.69999998807907, 118.0, -155.56054068697875)
-[10Dec2024 01:47:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RickyCaos69 joined the game
-[10Dec2024 01:47:41.446] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RickyCaos69 (18)
-[10Dec2024 01:47:41.447] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RickyCaos69
-[10Dec2024 01:47:46.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b51a0afa-e766-353b-a798-a08d2421f307
-[10Dec2024 01:47:47.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b51a0afa-e766-353b-a798-a08d2421f307
-[10Dec2024 01:47:47.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RickyCaos69 (b51a0afa-e766-353b-a798-a08d2421f307) successfully connected to voice chat
-[10Dec2024 01:49:36.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c3f25e3
-[10Dec2024 01:49:36.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luki111[/127.48.94.147:35171] logged in with entity id 514 at (80.92500001192093, 118.0, -159.69999998807907)
-[10Dec2024 01:49:36.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luki111 joined the game
-[10Dec2024 01:49:39.265] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luki111 (18)
-[10Dec2024 01:49:39.266] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luki111
-[10Dec2024 01:49:42.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e227481d-34fe-3149-a86f-635fb8210c32
-[10Dec2024 01:49:43.044] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e227481d-34fe-3149-a86f-635fb8210c32
-[10Dec2024 01:49:43.045] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luki111 (e227481d-34fe-3149-a86f-635fb8210c32) successfully connected to voice chat
-[10Dec2024 01:50:28.232] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=97, y=103, z=-184}
-[10Dec2024 01:55:12.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> diddy
-[10Dec2024 01:58:41.906] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-60, z=16}
-[10Dec2024 02:01:22.213] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-59, z=17}
-[10Dec2024 02:01:31.344] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-60, z=16}
-[10Dec2024 02:02:08.345] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-59, z=17}
-[10Dec2024 02:02:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> luis
-[10Dec2024 02:02:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> donde estas q desapareciste
-[10Dec2024 02:02:34.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luki111 sent expired chat: 'que tu haces ahi?'. Is the client/server system time unsynchronized?
-[10Dec2024 02:02:34.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luki111> que tu haces ahi?
-[10Dec2024 02:03:02.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> me ves?
-[10Dec2024 02:08:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RickyCaos69 has reached the goal [Feelingwatched]
-[10Dec2024 02:08:58.279] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-56, y=115, z=-502}
-[10Dec2024 02:10:59.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> luis
-[10Dec2024 02:11:01.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> wtf
-[10Dec2024 02:11:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> CORREEE
-[10Dec2024 02:27:43.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luki111 lost connection: Disconnected
-[10Dec2024 02:27:43.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luki111 left the game
-[10Dec2024 02:27:43.902] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luki111
-[10Dec2024 02:27:44.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RickyCaos69 lost connection: Disconnected
-[10Dec2024 02:27:44.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RickyCaos69 left the game
-[10Dec2024 02:27:44.786] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RickyCaos69
-[10Dec2024 02:27:53.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[10Dec2024 02:27:53.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10Dec2024 02:27:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10Dec2024 02:27:53.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10Dec2024 02:27:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10Dec2024 02:27:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10Dec2024 02:27:54.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10Dec2024 02:27:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
-[10Dec2024 02:27:54.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10Dec2024 02:27:54.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
-[10Dec2024 02:27:54.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Dec2024 22:46:13.781] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1198 advancements
+[10Dec2024 22:46:14.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[10Dec2024 22:46:14.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Dec2024 22:46:14.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Dec2024 22:46:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Dec2024 22:46:14.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Dec2024 22:46:14.545] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Dec2024 22:46:14.633] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Dec2024 22:46:14.634] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Dec2024 22:46:14.634] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Dec2024 22:46:14.634] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Dec2024 22:46:14.654] [Thread-0/INFO] [de.cadentem.nightmare.Nightmare/]: Server configuration has been reloaded
+[10Dec2024 22:46:14.656] [Thread-0/INFO] [de.cadentem.nightmare.Nightmare/]: Server configuration has been reloaded
+[10Dec2024 22:46:14.658] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
+[10Dec2024 22:46:14.660] [Thread-0/INFO] [de.cadentem.mimicer.Mimicer/]: Server configuration has been reloaded
+[10Dec2024 22:46:14.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Dec2024 22:46:15.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Dec2024 22:46:20.619] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.622] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.623] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.666] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.742] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.783] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.789] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.841] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.844] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.845] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:20.846] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Dec2024 22:46:21.256] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[10Dec2024 22:46:21.754] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[10Dec2024 22:46:22.253] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[10Dec2024 22:46:22.281] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7029 ms
+[10Dec2024 22:46:22.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.638s)! For help, type "help"
+[10Dec2024 22:46:22.300] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Dec2024 22:46:22.305] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[10Dec2024 22:46:22.329] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'structure-tex.gl.at.ply.gg'
+[10Dec2024 22:46:22.343] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2073
+[10Dec2024 22:48:35.481] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5438b0ad
+[10Dec2024 22:48:35.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luki111[/127.48.94.147:39309] logged in with entity id 135 at (-85.69999998807907, 137.0, -473.69999998807907)
+[10Dec2024 22:48:35.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luki111 joined the game
+[10Dec2024 22:48:37.467] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luki111 (18)
+[10Dec2024 22:48:37.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luki111
+[10Dec2024 22:48:38.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e227481d-34fe-3149-a86f-635fb8210c32
+[10Dec2024 22:48:39.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e227481d-34fe-3149-a86f-635fb8210c32
+[10Dec2024 22:48:39.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luki111 (e227481d-34fe-3149-a86f-635fb8210c32) successfully connected to voice chat
+[10Dec2024 22:49:14.428] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-119, y=123, z=-504}
+[10Dec2024 22:52:09.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luki111 lost connection: Disconnected
+[10Dec2024 22:52:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luki111 left the game
+[10Dec2024 22:52:09.457] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luki111
+[10Dec2024 22:52:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 22:52:41.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 22:52:41.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 22:52:41.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 22:52:42.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 22:52:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[10Dec2024 22:52:42.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 22:52:42.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 22:52:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 22:52:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[10Dec2024 22:52:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 22:52:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 22:52:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
