@@ -98,3 +98,12 @@
 [10Dec2024 01:49:43.045] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luki111 (e227481d-34fe-3149-a86f-635fb8210c32) successfully connected to voice chat
 [10Dec2024 01:50:28.232] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=97, y=103, z=-184}
 [10Dec2024 01:55:12.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> diddy
+[10Dec2024 01:58:41.906] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-60, z=16}
+[10Dec2024 02:01:22.213] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-59, z=17}
+[10Dec2024 02:01:31.344] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-32, y=-60, z=16}
+[10Dec2024 02:02:08.345] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-59, z=17}
+[10Dec2024 02:02:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> luis
+[10Dec2024 02:02:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> donde estas q desapareciste
+[10Dec2024 02:02:34.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luki111 sent expired chat: 'que tu haces ahi?'. Is the client/server system time unsynchronized?
+[10Dec2024 02:02:34.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luki111> que tu haces ahi?
+[10Dec2024 02:03:02.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RickyCaos69> me ves?

@@ -229,6 +229,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-10 01:58:56 +0000",
       "cooked_mutton": "2024-12-08 20:35:19 +0000",
       "cooked_beef": "2024-12-08 21:07:27 +0000",
       "apple": "2024-12-08 20:51:09 +0000",
@@ -553,6 +554,12 @@
       "has_cobblestone": "2024-12-08 19:56:19 +0000"
     },
     "done": true
+  },
+  "endofherobrine:story/exorcist": {
+    "criteria": {
+      "endofherobrine:sheep": "2024-12-10 02:00:09 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {

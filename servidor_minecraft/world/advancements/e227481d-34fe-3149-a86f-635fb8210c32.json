@@ -539,6 +539,7 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
+      "endofherobrine:sheep": "2024-12-10 01:59:27 +0000",
       "endofherobrine:pigman": "2024-12-08 20:44:01 +0000"
     },
     "done": false
